@@ -1,12 +1,12 @@
-# config.yaml
-
----
-database1:
-  url: jdbc:mysql://localhost:3306/mydb
-  username: dbuser
-  password: dbpassword
-
----
-app1:
-  name: MyApp
-  version: 1.0
+## config.yaml
+#
+#---
+#database1:
+#  url: jdbc:mysql://localhost:3306/mydb
+#  username: dbuser
+#  password: dbpassword
+#
+#---
+#app1:
+#  name: MyApp
+#  version: 1.0
