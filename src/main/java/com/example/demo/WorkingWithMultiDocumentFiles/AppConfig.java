@@ -24,6 +24,4 @@ public class AppConfig {
     public void setVersion(String version) {
         this.version = version;
     }
-// Getters and setters
-    // ...
 }

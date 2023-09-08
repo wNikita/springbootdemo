@@ -14,7 +14,6 @@ public class AppConfig {
     @Value("${app.description}")
     private String description;
 
-    // Getter and setter methods (optional)
 
     public String getTitle() {
         return title;

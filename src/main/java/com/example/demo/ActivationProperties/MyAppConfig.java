@@ -15,6 +15,5 @@ public class MyAppConfig {
     public void setFeatureEnabled(boolean featureEnabled) {
         this.featureEnabled = featureEnabled;
     }
-// Getter and setter for featureEnabled
 }
 

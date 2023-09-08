@@ -24,5 +24,4 @@ public class MyAppProperties {
     public void setVersion(String version) {
         this.version = version;
     }
-// Getters and setters for name and version properties
 }
