@@ -10,6 +10,3 @@ public class MyAppApplication {
         SpringApplication.run(MyAppApplication.class, args);
     }
 }
-("Hello Good Morning Sir,
-    I am writting this mail beacuse i am facing some issue with the laptop .
-        could you please check it once when you are free?")
